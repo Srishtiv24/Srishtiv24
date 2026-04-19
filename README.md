@@ -2,7 +2,7 @@
 
 # SRISHTI VERMA 
 
-**3rd Year Computer Science Engineering Student**
+**MERN Developer | Pre Final Year Computer Science Engineering Student**
 
 *"Consistency and curiosity are key to becoming a great engineer."*
 
@@ -13,9 +13,7 @@
 
 </div>
 
-[![Readme Card](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=39D353&background=0D111700&multiline=true&width=500&height=160&lines=srishti%40github+~+%24+whoami;+>+Srishti+|+CSE+3rd+Year+|+MERN+Dev;srishti%40github+~+%24+skills+--list;+>+React+·+Node+·+MongoDB+·+Socket.io;srishti%40github+~+%24+cat+motto.txt;+>+Consistency+%2B+Curiosity+%3D+Great+Engineer)](https://github.com/Srsihtiv24)
-![snake](https://raw.githubusercontent.com/Srishtiv24/Srishtiv24/output/github-contribution-grid-snake.svg)
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=400&color=39D353&background=0D111700&multiline=true&width=600&height=200&lines=srishti%40github+~+%24+whoami;++Srishti+—+3rd+Year+B.Tech+CSE;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer)](https://github.com/Srishtiv24)
 
 ## Tech Stack
 
