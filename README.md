@@ -13,8 +13,235 @@
 
 </div>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Srishti — Terminal</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  min-height: 100vh;
+  background: #010409;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', monospace;
+  padding: 2rem;
+}
+.terminal {
+  width: 100%;
+  max-width: 700px;
+  background: #0d1117;
+  border-radius: 12px;
+  border: 1px solid #30363d;
+  overflow: hidden;
+  box-shadow: 0 0 60px rgba(39,201,63,0.07), 0 24px 64px rgba(0,0,0,0.6);
+}
+.titlebar {
+  background: #161b22;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-bottom: 1px solid #21262d;
+}
+.dot { width: 13px; height: 13px; border-radius: 50%; }
+.title-text {
+  flex: 1; text-align: center; font-size: 12px;
+  color: #484f58; font-family: monospace;
+  margin-right: 42px; letter-spacing: 0.04em;
+}
+.body {
+  padding: 20px 22px 28px;
+  font-size: 13.5px;
+  line-height: 1.9;
+  min-height: 320px;
+}
+.line { display: flex; flex-wrap: wrap; align-items: baseline; min-height: 26px; }
+.prompt-user { color: #39d353; font-weight: bold; }
+.prompt-at   { color: #484f58; }
+.prompt-host { color: #58a6ff; font-weight: bold; }
+.prompt-sym  { color: #484f58; margin-right: 4px; }
+.cmd         { color: #e6edf3; }
+.out         { color: #8b949e; padding-left: 4px; }
+.green       { color: #39d353; }
+.blue        { color: #58a6ff; }
+.pink        { color: #f778ba; }
+.amber       { color: #e3b341; }
+.white       { color: #e6edf3; }
+.dim         { color: #484f58; }
+.cursor {
+  display: inline-block; width: 9px; height: 15px;
+  background: #39d353; margin-left: 1px;
+  vertical-align: middle;
+  animation: blink 0.8s step-end infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+.scanline {
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.025) 2px, rgba(0,0,0,0.025) 4px);
+  pointer-events: none; z-index: 10;
+}
+</style>
+</head>
+<body>
+<div class="scanline"></div>
+<div class="terminal">
+  <div class="titlebar">
+    <div class="dot" style="background:#ff5f56"></div>
+    <div class="dot" style="background:#ffbd2e"></div>
+    <div class="dot" style="background:#27c93f"></div>
+    <span class="title-text">srishti@github: ~</span>
+  </div>
+  <div class="body" id="body"></div>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=200&color=39D353&background=0D111700&multiline=true&width=800&height=300&lines=srishti%40github+~+%24+whoami;++Srishti+—+3rd+Year+B.Tech+CSE;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer)](https://github.com/Srishtiv24)
+<script>
+const SCRIPT = [
+
+  { type: 'cmd',  text: 'whoami' },
+  { type: 'out',  parts: [{ t: 'Srishti', c: 'green' }, { t: '  —  3rd Year B.Tech CSE Student', c: 'white' }] },
+
+  { type: 'gap' },
+
+  { type: 'cmd',  text: 'echo $PASSION' },
+  { type: 'out',  parts: [{ t: 'Full-Stack Web Development  ', c: 'amber' }, { t: '(MERN Stack)', c: 'dim' }] },
+
+  { type: 'gap' },
+
+  { type: 'cmd',  text: 'cat current_focus.txt' },
+  { type: 'out',  parts: [{ t: '→ ', c: 'blue' }, { t: 'Building intuitive, user-focused websites', c: 'white' }] },
+  { type: 'out',  parts: [{ t: '→ ', c: 'blue' }, { t: 'Practising DSA daily on ', c: 'out' }, { t: 'LeetCode', c: 'pink' }] },
+
+  { type: 'gap' },
+
+  { type: 'cmd',  text: 'cat skills.json | grep stack' },
+  { type: 'out',  parts: [{ t: '"stack"', c: 'blue' }, { t: ' : ', c: 'dim' }, { t: '"MongoDB · Express · React · Node.js"', c: 'green' }] },
+  { type: 'out',  parts: [{ t: '"extras"', c: 'blue' }, { t: ': ', c: 'dim' }, { t: '"Socket.io · WebRTC · JWT · OAuth · Multer"', c: 'green' }] },
+  { type: 'out',  parts: [{ t: '"deploy"', c: 'blue' }, { t: ': ', c: 'dim' }, { t: '"Vercel · Netlify · Render"', c: 'amber' }] },
+
+  { type: 'gap' },
+
+  { type: 'cmd',  text: 'cat motto.txt' },
+  { type: 'out',  parts: [{ t: '" Consistency + Curiosity = Great Engineer "', c: 'amber' }] },
+
+  { type: 'gap' },
+
+  { type: 'cmd',  text: 'ls interests/' },
+  { type: 'out',  parts: [
+    { t: 'creativity/', c: 'pink' }, { t: '   ', c: 'dim' },
+    { t: 'fitness/', c: 'pink' },    { t: '   ', c: 'dim' },
+    { t: 'building_things/', c: 'green' }
+  ]},
+
+  { type: 'gap' },
+
+  { type: 'cmd',  text: 'echo $GOAL' },
+  { type: 'out',  parts: [{ t: 'Always learning · staying challenged · contributing meaningfully 🚀', c: 'white' }] },
+
+  { type: 'gap' },
+  { type: 'cmd',  text: '' },
+];
+
+const body = document.getElementById('body');
+let li = 0, ci = 0, phase = 'prompt';
+let cmdSpan = null;
+
+function mkPrompt() {
+  const d = document.createElement('div');
+  d.className = 'line';
+  d.innerHTML =
+    `<span class="prompt-user">srishti</span>` +
+    `<span class="prompt-at">@</span>` +
+    `<span class="prompt-host">github</span>` +
+    `<span class="prompt-sym"> ~ $</span>`;
+  cmdSpan = document.createElement('span');
+  cmdSpan.className = 'cmd';
+  cmdSpan.style.marginLeft = '6px';
+  d.appendChild(cmdSpan);
+  body.appendChild(d);
+}
+
+function putCursor(el) {
+  dropCursor();
+  const c = document.createElement('span');
+  c.className = 'cursor'; c.id = 'cur';
+  el.appendChild(c);
+}
+
+function dropCursor() {
+  const c = document.getElementById('cur');
+  if (c) c.remove();
+}
+
+function mkOutput(parts) {
+  const d = document.createElement('div');
+  d.className = 'line';
+  d.style.paddingLeft = '4px';
+  parts.forEach(p => {
+    const s = document.createElement('span');
+    s.className = p.c; s.textContent = p.t;
+    d.appendChild(s);
+  });
+  body.appendChild(d);
+}
+
+function mkGap() {
+  const d = document.createElement('div');
+  d.style.height = '5px';
+  body.appendChild(d);
+}
+
+function tick() {
+  if (li >= SCRIPT.length) {
+    dropCursor();
+    putCursor(body.lastElementChild);
+    return;
+  }
+  const node = SCRIPT[li];
+
+  if (node.type === 'gap') {
+    mkGap(); li++;
+    setTimeout(tick, 60);
+    return;
+  }
+
+  if (node.type === 'out') {
+    mkOutput(node.parts); li++;
+    setTimeout(tick, 50);
+    return;
+  }
+
+  if (node.type === 'cmd') {
+    if (phase === 'prompt') {
+      mkPrompt();
+      putCursor(cmdSpan);
+      phase = 'typing'; ci = 0;
+      setTimeout(tick, 180);
+      return;
+    }
+    if (phase === 'typing') {
+      if (ci < node.text.length) {
+        dropCursor();
+        cmdSpan.textContent += node.text[ci++];
+        putCursor(cmdSpan);
+        setTimeout(tick, 58);
+      } else {
+        dropCursor();
+        li++; phase = 'prompt';
+        setTimeout(tick, 350);
+      }
+    }
+  }
+}
+
+setTimeout(tick, 900);
+</script>
+</body>
+</html>
+
 
 ## Tech Stack
 
