@@ -73,9 +73,9 @@
 
 </div>
 
-##  DSA Progress
 
 <div align="center">
+## DSA Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/e1ZRgaBXNa?theme=dark&font=Nunito&ext=contest)
 
