@@ -13,18 +13,8 @@
 
 </div>
 
+[![Readme Card](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=39D353&background=0D111700&multiline=true&width=500&height=160&lines=srishti%40github+~+%24+whoami;+>+Srishti+|+CSE+3rd+Year+|+MERN+Dev;srishti%40github+~+%24+skills+--list;+>+React+·+Node+·+MongoDB+·+Socket.io;srishti%40github+~+%24+cat+motto.txt;+>+Consistency+%2B+Curiosity+%3D+Great+Engineer)](https://github.com/Srsihtiv24)
 ![snake](https://raw.githubusercontent.com/Srishtiv24/Srishtiv24/output/github-contribution-grid-snake.svg)
----
-
-## 🙋‍♀️ About Me
-
-- 🎓 3rd Year **B.Tech CSE** student with a passion for full-stack web development
-- 💻 Building intuitive, user-focused websites using the **MERN Stack**
-- 🧩 Actively practicing **DSA** on LeetCode to sharpen problem-solving skills
-- ✨ I believe **consistency + curiosity** = great engineering
-- 🎨 Outside tech, I love expressing creativity and staying committed to fitness & personal growth
-- 🚀 Always learning, staying challenged, and contributing meaningfully
-
 ---
 
 ## 🛠️ Tech Stack
