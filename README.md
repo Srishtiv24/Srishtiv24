@@ -1,8 +1,8 @@
 <div align="center">
 
-# SRISHTI VERMA 
+# Hi , I'm Srishti Verma 
 
-**MERN Developer**
+**MERN Developer | Pre Final Year Computer Science Student**
 
 *"Consistency and curiosity are key to becoming a great engineer."*
 
@@ -13,10 +13,13 @@
 
 </div>
 
+
 ## About Me
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1900&pause=200&color=39D353&background=0D111700&multiline=true&width=800&height=250&lines=srishti%40github+~+%24+whoami;++Srishti+%E2%80%94+3rd+Year+B.Tech+CSE+Student;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+ls+interests%2F;++creativity%2F+++fitness%2F+++building_things%2F;srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer;srishti%40github+~+%24+echo+%24GOAL;++Always+learning+%C2%B7+staying+challenged+%C2%B7+contributing)
 ## Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -53,13 +56,9 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=pink)
 ![Passport](https://img.shields.io/badge/Passport-000000?style=flat-square&logo=passport&logoColor=yellow)
 
-**Deployment & Hosting**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
+</div>
 ---
+
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -74,20 +73,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srishtiv24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishtiv24&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srishtiv24&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
