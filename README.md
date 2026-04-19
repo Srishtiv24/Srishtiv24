@@ -15,7 +15,7 @@
 
 ## About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=200&color=39D353&background=0D111700&multiline=true&width=800&height=420&lines=srishti%40github+~+%24+whoami;++Srishti+—+3rd+Year+B.Tech+CSE+Student;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+ls+interests%2F;++creativity%2F+++fitness%2F+++building_things%2F;srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer;srishti%40github+~+%24+echo+%24GOAL;++Always+learning+·+staying+challenged+·+contributing+%F0%9F%9A%80)](https://github.com/Srishtiv24)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1900&pause=200&color=39D353&background=0D111700&multiline=true&width=800&height=420&lines=srishti%40github+~+%24+whoami;++Srishti+—+3rd+Year+B.Tech+CSE+Student;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+ls+interests%2F;++creativity%2F+++fitness%2F+++building_things%2F;srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer;srishti%40github+~+%24+echo+%24GOAL;++Always+learning+·+staying+challenged+·+contributing+%F0%9F%9A%80)](https://github.com/Srishtiv24)
 
 ## Tech Stack
 
