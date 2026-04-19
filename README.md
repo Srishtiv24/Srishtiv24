@@ -46,6 +46,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-FF6C37?style=flat-square&logo=npm&logoColor=white)
+![NodeMailer](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=pink)
 
 **Real-Time & Communication**
 
@@ -53,7 +54,7 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 **Auth & APIs**
-
+![Passport](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=yellow)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
