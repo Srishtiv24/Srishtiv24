@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
 </a>
 <a href="https://leetcode.com/u/e1ZRgaBXNa/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="28" style="filter: invert(60%) sepia(92%) saturate(500%) hue-rotate(10deg);"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="28"/>
 </a>
 <a href="https://your-portfolio.com">
   <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
@@ -37,7 +37,7 @@ Srishti Verma
 Full Stack Developer (MERN)
 
 > focus
-Building scalable web apps + exploring AI integration
+Building applications that solve real-world problems
 
 > mindset
 Consistency + Curiosity
@@ -98,9 +98,9 @@ Consistency + Curiosity
 ## 05 — Direction
 
 ```txt
-→ Growing as a MERN Stack Developer
-→ Exploring AI-powered applications & integrations
-→ Building impactful, real-world scalable products
+→ Solving real-world problems through technology
+→ Building scalable applications that create meaningful impact
+→ Expanding into MERN + AI to push applications beyond traditional limits
 ```
 
 ---
