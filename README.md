@@ -4,7 +4,7 @@
 
 **3rd Year Computer Science Engineering Student**
 
-*Turning ideas into impactful digital experiences — one commit at a time.*
+*"Consistency and curiosity are key to becoming a great engineer."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishtiiv24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
@@ -17,7 +17,7 @@
 ![snake](https://raw.githubusercontent.com/Srishtiv24/Srishtiv24/output/github-contribution-grid-snake.svg)
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -61,7 +61,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
-## 🗣️ Languages
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -70,7 +70,7 @@
 
 ---
 
-## 🔧 Tools & Version Control
+## Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -78,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -92,7 +92,7 @@
 
 ---
 
-## 🧩 DSA Progress
+##  DSA Progress
 
 <div align="center">
 
@@ -103,8 +103,6 @@
 ---
 
 <div align="center">
-
-*"Consistency and curiosity are key to becoming a great engineer."*
 
 **Thanks for visiting! Feel free to explore my repos and drop a ⭐ if something inspires you 🌟**
 
