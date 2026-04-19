@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Srishti 👋
+# SRISHTI VERMA 
 
 **3rd Year Computer Science Engineering Student**
 
