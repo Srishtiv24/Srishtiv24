@@ -14,7 +14,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=400&color=39D353&background=0D111700&multiline=true&width=600&height=200&lines=srishti%40github+~+%24+whoami;++Srishti+—+3rd+Year+B.Tech+CSE;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer)](https://github.com/Srishtiv24)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=200&color=39D353&background=0D111700&multiline=true&width=800&height=300&lines=srishti%40github+~+%24+whoami;++Srishti+—+3rd+Year+B.Tech+CSE;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer)](https://github.com/Srishtiv24)
 
 ## Tech Stack
 
