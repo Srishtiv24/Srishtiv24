@@ -2,13 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Srishti%20Verma&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-### MERN Developer • CSE Undergrad • Builder
+### Problem Solver • MERN Developer • CSE Undergrad  
+
+<sub><i>"Consistency and curiosity are key to becoming a great engineer."</i></sub>
+
+<br>
 
 <p>
-<a href="https://www.linkedin.com/in/srishtiiv24/"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
-<a href="mailto:vermasrishti74@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
-<a href="https://leetcode.com/u/e1ZRgaBXNa/"><img src="https://skillicons.dev/icons?i=leetcode" height="28"/></a>
-<a href="https://your-portfolio.com"><img src="https://skillicons.dev/icons?i=vercel" height="28"/></a>
+<a href="https://www.linkedin.com/in/srishtiiv24/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
+</a>
+<a href="mailto:vermasrishti74@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
+</a>
+<a href="https://leetcode.com/u/e1ZRgaBXNa/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="28" style="filter: invert(60%) sepia(92%) saturate(500%) hue-rotate(10deg);"/>
+</a>
+<a href="https://your-portfolio.com">
+  <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
+</a>
 </p>
 
 </div>
@@ -25,33 +37,51 @@ Srishti Verma
 Full Stack Developer (MERN)
 
 > focus
-Building scalable & user-centric web applications
+Building scalable web apps + exploring AI integration
 
 > mindset
-Consistency > Motivation
+Consistency + Curiosity
 ```
 
 ---
 
-## 02 — Tech Arsenal
+## 02 — Tech Stack
 
+### Frontend  
 <div align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=java,python,c" /><br/>
+### Backend  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
+
+### Database  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</div>
+
+### Languages  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</div>
+
+### Tools  
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
 </div>
 
 ---
 
-## 03 — What I Work With
+## 03 — GitHub Stats
 
-- Real-time apps (Socket.io, WebRTC)  
-- Authentication systems (JWT, OAuth)  
-- REST APIs & backend architecture  
-- Clean UI + performance-focused frontend  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Srishtiv24&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srishtiv24&theme=github-dark&hide_border=true" height="150"/>
+
+</div>
 
 ---
 
@@ -65,12 +95,12 @@ Consistency > Motivation
 
 ---
 
-## 05 — Current Direction
+## 05 — Direction
 
 ```txt
-→ Improving problem-solving consistency
-→ Building production-ready full stack apps
-→ Exploring system design fundamentals
+→ Growing as a MERN Stack Developer
+→ Exploring AI-powered applications & integrations
+→ Building impactful, real-world scalable products
 ```
 
 ---
