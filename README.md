@@ -13,13 +13,15 @@
 
 </div>
 
-
+<div align="center">
 ## About Me
+</div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1900&pause=200&color=39D353&background=0D111700&multiline=true&width=800&height=250&lines=srishti%40github+~+%24+whoami;++Srishti+%E2%80%94+3rd+Year+B.Tech+CSE+Student;srishti%40github+~+%24+echo+%24PASSION;++Full-Stack+Web+Development+(MERN);srishti%40github+~+%24+ls+interests%2F;++creativity%2F+++fitness%2F+++building_things%2F;srishti%40github+~+%24+cat+motto.txt;++Consistency+%2B+Curiosity+%3D+Great+Engineer;srishti%40github+~+%24+echo+%24GOAL;++Always+learning+%C2%B7+staying+challenged+%C2%B7+contributing)
-## Tech Stack
 
 <div align="center">
+
+## Tech Stack
 
 **Frontend**
 
@@ -56,8 +58,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=pink)
 ![Passport](https://img.shields.io/badge/Passport-000000?style=flat-square&logo=passport&logoColor=yellow)
 
----
-
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -65,15 +65,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/python-A8B9CC?style=flat-square&logo=python&logoColor=blue)
 
----
-
 ## Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
 
 </div>
 
