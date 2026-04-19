@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishtiiv24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermasrishti74@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermasrishti74@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/e1ZRgaBXNa/)
 
 </div>
@@ -18,7 +18,7 @@
 ## 🙋‍♀️ About Me
 
 - 🎓 3rd Year **B.Tech CSE** student with a passion for full-stack web development
-- 💻 Building intuitive, user-focused apps using the **MERN Stack**
+- 💻 Building intuitive, user-focused websites using the **MERN Stack**
 - 🧩 Actively practicing **DSA** on LeetCode to sharpen problem-solving skills
 - ✨ I believe **consistency + curiosity** = great engineering
 - 🎨 Outside tech, I love expressing creativity and staying committed to fitness & personal growth
