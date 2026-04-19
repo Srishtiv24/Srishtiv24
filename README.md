@@ -13,7 +13,7 @@
 
 </div>
 
-![snake](https://github.com/Srishtiv24/Srishtiv24/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Srishtiv24/Srishtiv24/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🙋‍♀️ About Me
