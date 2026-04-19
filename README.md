@@ -2,7 +2,7 @@
 
 # Hi , I'm Srishti Verma 
 
-**MERN Developer | Pre Final Year Computer Science Student**
+**MERN Developer | Pre Final Year Computer Science Engineering Student**
 
 *"Consistency and curiosity are key to becoming a great engineer."*
 
