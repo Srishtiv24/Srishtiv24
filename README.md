@@ -12,12 +12,15 @@
 <a href="https://www.linkedin.com/in/srishtiiv24/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="28"/>
 </a>
+  
 <a href="mailto:vermasrishti74@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
 </a>
+  
 <a href="https://leetcode.com/u/e1ZRgaBXNa/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="28"/>
 </a>
+  
 <a href="https://your-portfolio.com">
   <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
 </a>
