@@ -56,7 +56,6 @@
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=pink)
 ![Passport](https://img.shields.io/badge/Passport-000000?style=flat-square&logo=passport&logoColor=yellow)
 
-</div>
 ---
 
 ## Languages
@@ -75,6 +74,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+
+</div>
 
 ##  DSA Progress
 
