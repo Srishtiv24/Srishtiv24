@@ -43,7 +43,7 @@ Full Stack Developer (MERN)
 Building applications that solve real-world problems
 
 > mindset
-Consistency + Curiosity
+Discipline + Focus + Obsession = Growth 
 ```
 
 ---
