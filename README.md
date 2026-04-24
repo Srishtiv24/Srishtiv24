@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=160&section=header&text=Srishti%20Verma&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=160&section=header&text=Srishti%20Verma&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
 ### Problem Solver • MERN Developer • CSE Undergrad  
 
