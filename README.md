@@ -57,7 +57,7 @@ Discipline + Focus + Obsession = Growth
 
 ### Backend  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,webrtc,sockets" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,webrtc" />
 </div>
 
 ### Database  
@@ -72,7 +72,7 @@ Discipline + Focus + Obsession = Growth
 
 ### Tools  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode.,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
 ---
