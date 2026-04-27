@@ -21,7 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="28"/>
 </a>
 <a href="https://your-portfolio.com" target="_blank" title="Portfolio">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" height="28"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="28"/>
 </a>
 <a href="https://your-resume-link.com" target="_blank" title="Resume">
   <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" height="28"/>
