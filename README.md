@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://your-resume-link.com" target="_blank" title="Resume">
-  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" height="28"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991108.png" height="28"/>
 </a>
 </p>
 
