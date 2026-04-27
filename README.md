@@ -16,10 +16,6 @@
 <a href="mailto:vermasrishti74@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
 </a>
-  
-<a href="https://leetcode.com/u/e1ZRgaBXNa/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="28"/>
-</a>
 <a href="https://your-portfolio.com" target="_blank" title="Portfolio">
   <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
 </a>
@@ -93,6 +89,10 @@ Discipline + Focus + Obsession = Growth
 ## 04 — DSA
 
 <div align="center">
+ 
+<a href="https://leetcode.com/u/e1ZRgaBXNa/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="28"/>
+</a>
 
 <img src="https://leetcard.jacoblin.cool/e1ZRgaBXNa?theme=dark&border=0&radius=10" />
 
