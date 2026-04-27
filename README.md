@@ -25,8 +25,8 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="28"/>
 </a>
 
-<a href="https://your-resume-link.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pdf" height="28"/>
+<a href="https://your-resume-link.com" target="_blank" title="Resume">
+  <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" height="28"/>
 </a>
 </p>
 
