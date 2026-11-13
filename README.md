@@ -91,7 +91,7 @@ Discipline + Focus + Obsession = Growth
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/e1ZRgaBXNa?theme=dark&border=0&radius=10" />
+<img src="https://leetcard.jacoblin.cool/srishtiv24?theme=dark&border=0&radius=10" />
 
 </div>
 
